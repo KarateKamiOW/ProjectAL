@@ -24,6 +24,8 @@ The Code here, is everything so far done.
 
 
 //------------------------------------
+
+
 As of 3/9
 
 2 new Npc's added.
@@ -31,6 +33,16 @@ As of 3/9
 These misc. items drop randomly from monsters.
 Additionaly, also added 'Skill Crystals'. These also drop randomly from monsters, and are needed to unlock skills in the future.
 The 'Skill Unlock Vendors/NPCs" are associated with the two newly added NPCs.
+
+
+
+
+
+
+
+
+
+
 //------------------------------------
 
 As of 3/5 Six Alien species are available to the players. Perks are not in.
