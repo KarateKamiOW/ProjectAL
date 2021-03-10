@@ -23,10 +23,17 @@ The Code here, is everything so far done.
 
 
 
+//------------------------------------
+As of 3/9
 
+2 new Npc's added.
+6 Misc. items added. These are items that serve no direct purpose(such as recovering health or boosting stats), but may serve as crafting pieces later.
+These misc. items drop randomly from monsters.
+Additionaly, also added 'Skill Crystals'. These also drop randomly from monsters, and are needed to unlock skills in the future.
+The 'Skill Unlock Vendors/NPCs" are associated with the two newly added NPCs.
 //------------------------------------
 
-As of 3/15 Six Alien species are available to the players. Perks are not in.
+As of 3/5 Six Alien species are available to the players. Perks are not in.
 
 The scripts for dialog are completed. Using scriptable objects, I can easily create dialog entries for Npcs. Furthermore, I also added a response system for the player. With this, the player can choose between different dialog responses, resulting in different passive stat changes.
 
@@ -57,6 +64,7 @@ Next on the Agenda------
 //Create s script that allows items to be "used", to give items different functions.
 //More ART
 //Add lighting system and sound.
+
 
 
 
