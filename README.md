@@ -24,8 +24,18 @@ The Code here, is everything so far done.
 
 
 //------------------------------------
+3/11
+- Fixed camera variables to better follow the player.
+- Added 12 new items to the game. When used, they will boost stats. 'Use' function not added yet.
+- Reworked enemy movement scripts. I had trouble with Raycasts, so I'm ditching that method for another.
+- More will be added to the future. For now, enemies roam around and chase when you're within their 'Attack Range'
+- Increased Bullet Size and added a slight glow; for better readability.
 
 
+
+
+
+//------------------------------------
 As of 3/9
 
 2 new Npc's added.
