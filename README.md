@@ -15,9 +15,21 @@ As well as art
 And the animations.
 Art-> Pixel Art, done in Aseprite
 The Code here, is everything so far done.
+Code done in C# using Unity Game Engine
 
 
 
+//------------------------------------
+3/22
+Been a little over a week but I've added some big additions to the game!
+-Added a 'WhiteFlash' Material. Now when enemies are hit, they flash for a split second
+This is for imporved game feel and better readability.
+-Added portals. When the player enters the portal, they'll be transported to a new scene.
+This is big for expanding the size of the game. I can now easily add additional maps to the game.
+-Added a fully functional inventory system.
+As well as items properly upadting when added to the inventory, players can also use consumables.
+Consumables offer distinctive advantages (and disaadvantages) and incentivizes the player to collect.
+These two additions are huge for expanding the game, and encompass a large part of the rest of the game.
 
 
 
