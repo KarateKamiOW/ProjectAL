@@ -29,21 +29,37 @@ I'm baaaaack. Ton of changes since the last posted update!
 
 Back to the game updates!
 -Muzzle flash has been added to the guns.
+
 -Weapon Dialog! This is an interesting add on to the game but uhhhhh, periodically guns can talk to you. And you can even respond to them!
+
 -SO you may be asking, why?... Because it's funny!
+
 -But seriously, there's currently around 10 different personalities. Each personality will have dozens of different dialog.
+
 -Depending on how you respond to your gun, their stats may increase slightly. Guns can roll with different personalities.
+
 -So even if you play the game 3 times with the same type gun, you may roll a different personality with it, changing its stats uniquely.
+
 Cool.
 -Added bullet trails for better looking bullet styles.
+
 -Finished tiles for different biomes.
+
 -Added crosshairs for better visibility.
+
 -Added Basic NPCs!
+
 -These npcs simply walk around the world and say something if the player interacts with them.
+
 -In the future, these npcs will be able to hand out repeatable quests.
+
 -Additionally, added outlines to NPCs. It needs more tuning, but when the player stands near, or hovers their mouse over passive npcs,
 they will have a green outline. In the future, enemies and other objects will have colored outlines as well.
+
 -And other small changes! 
+
+
+
 The next time I post here, the game will be verrryy close to reveal. 
 Next on the agenda...
 
@@ -55,14 +71,19 @@ Next on the agenda...
   -Intoduce the year system. Long story short, the game revolves around this system. All actions will add to a year counter (1/100). 
   When you reach 100/100, the year will end, increment, and start again at (1/100). You only have 10 years!
 
-//------------------------------------
+//---------------------------------------------------------------------------------------------------------------------
 3/22
+
 Been a little over a week but I've added some big additions to the game!
+
 -Added a 'WhiteFlash' Material. Now when enemies are hit, they flash for a split second
 This is for imporved game feel and better readability.
+
 -Added portals. When the player enters the portal, they'll be transported to a new scene.
 This is big for expanding the size of the game. I can now easily add additional maps to the game.
+
 -Added a fully functional inventory system.
+
 As well as items properly upadting when added to the inventory, players can also use consumables.
 Consumables offer distinctive advantages (and disaadvantages) and incentivizes the player to collect.
 These two additions are huge for expanding the game, and encompass a large part of the rest of the game.
