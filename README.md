@@ -17,7 +17,43 @@ Art-> Pixel Art, done in Aseprite
 The Code here, is everything so far done.
 Code done in C# using Unity Game Engine
 
+4/13
+I'm baaaaack. Ton of changes since the last posted update!
+-Art has been improved across the board, with more improvements planned. By next month, the game will be ready to be revealed.
+-The next steps will be looking towards its promotion and possibly open a kickstarter, which brings me to the next point.
+-The next few months may be tricky. I need a steadier stream of income, and may need a job in the meantime. 
+-This'll mean slower progress, however, worst case scenario, im still planning on releasing this game this year.
+-I do not intend on spending years on this project.
+-So with all this in mind, I'm also planning on not uploading future scripts or locking them for selective viewers. 
+-The scripts that are uploaded will remain, this was initially just planned to show employers by semi-bi-weekly updates.
 
+Back to the game updates!
+-Muzzle flash has been added to the guns.
+-Weapon Dialog! This is an interesting add on to the game but uhhhhh, periodically guns can talk to you. And you can even respond to them!
+-SO you may be asking, why?... Because it's funny!
+-But seriously, there's currently around 10 different personalities. Each personality will have dozens of different dialog.
+-Depending on how you respond to your gun, their stats may increase slightly. Guns can roll with different personalities.
+-So even if you play the game 3 times with the same type gun, you may roll a different personality with it, changing its stats uniquely.
+Cool.
+-Added bullet trails for better looking bullet styles.
+-Finished tiles for different biomes.
+-Added crosshairs for better visibility.
+-Added Basic NPCs!
+-These npcs simply walk around the world and say something if the player interacts with them.
+-In the future, these npcs will be able to hand out repeatable quests.
+-Additionally, added outlines to NPCs. It needs more tuning, but when the player stands near, or hovers their mouse over passive npcs,
+they will have a green outline. In the future, enemies and other objects will have colored outlines as well.
+-And other small changes! 
+The next time I post here, the game will be verrryy close to reveal. 
+Next on the agenda...
+
+  -Damage text when hitting enemies
+  -Improve enemy behavior
+  -Add mods to guns
+  -More Npcs
+  -Quests
+  -Intoduce the year system. Long story short, the game revolves around this system. All actions will add to a year counter (1/100). 
+  When you reach 100/100, the year will end, increment, and start again at (1/100). You only have 10 years!
 
 //------------------------------------
 3/22
