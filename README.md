@@ -17,7 +17,69 @@ Art-> Pixel Art, done in Aseprite
 The Code here, is everything so far done.
 Code done in C# using Unity Game Engine
 
-4/13
+# 5/10
+BACK ONCE AGAIN
+-Been about a month since the last update but the work hasn't stopped!
+
+-Although I've been a bit busy in preparing for my graduation, theres been a TON of changes since the last update.
+
+-Improved game feel by adding screen shake in various other places such as shooting the gun.
+
+-Added new shops that'll allow the players to buy items to boost their stats.
+
+-Speaking of buying, there was no way the player could actually acquire money prior to a few weeks ago; that has changed.
+
+-Player can now sell their unwanted items at the local 'Dump' which'll give money back to the player to spend!
+
+-Guns can now be swapped. Players can hold up to 2 weapons at a time.
+
+-Added explosion barrels. If the player(or an enemy) does enough damage to it, it'll explode!
+
+-Random NPCs. Random NPCs now walk around and will say a random line when player interacts with them.
+
+-This will be built upon more in the future to give players hints, tricks, and lore about the game!
+
+-The Gachabog! Give your hard earned money to the Gachabog and she'll drop a random gun based on the selected tier.(3 tiers total)
+
+-Planning on added dozens of guns, each with their own line of variants, amounting to (hopefully) well over 100 guns to play with.
+
+-Enemy Spawner. A simple script that'll allow enemies to spawn randomly at a given location. Useful down the line.
+
+-Added a squash and stretch effect to the player for improved Game feel.
+
+-Skills! This one is much more recent(yesterday :P), but the basic framework for skills have been added! 
+
+-Players will be able to equip up to 2 skills at a time,(and will even be able to upgrade them in the future).
+
+-For now, the only available skill is called "Accelerate I" and will boost player speed for some seconds, before returning to normal.
+
+-Within the week, I'll be looking to add much more interesting skills such as "Grenade Toss" and "Dash" (Placeholder names).
+
+-Improved Dust particle effect.
+
+
+June 1st marks the one year anniversary since I've began programming games. Although I don't have a game out yet, I've learned an absolute TON 
+since I've began, and will be looking at finally revealing the game around that date.
+Within the next few weeks I'll be mainly focused on.
+
+-Improving Art some more.
+
+-Adding Skills
+
+-More enemy types
+
+-More Weapons(The sprites for over 50 weapons are complete, and just need to be added now)
+
+-More Shops and NPCs
+
+-Quests
+
+-Getting better at Github :)
+
+
+
+//-------------------------------------------------------------------------------------------------------------------------------
+# 4/13
 I'm baaaaack. Ton of changes since the last posted update!
 -Art has been improved across the board, with more improvements planned. By next month, the game will be ready to be revealed.
 -The next steps will be looking towards its promotion and possibly open a kickstarter, which brings me to the next point.
@@ -26,6 +88,9 @@ I'm baaaaack. Ton of changes since the last posted update!
 -I do not intend on spending years on this project.
 -So with all this in mind, I'm also planning on not uploading future scripts or locking them for selective viewers. 
 -The scripts that are uploaded will remain, this was initially just planned to show employers by semi-bi-weekly updates.
+
+
+
 
 Back to the game updates!
 -Muzzle flash has been added to the guns.
@@ -72,7 +137,7 @@ Next on the agenda...
   When you reach 100/100, the year will end, increment, and start again at (1/100). You only have 10 years!
 
 //---------------------------------------------------------------------------------------------------------------------
-3/22
+# 3/22
 
 Been a little over a week but I've added some big additions to the game!
 
