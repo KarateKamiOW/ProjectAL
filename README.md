@@ -17,6 +17,57 @@ Art-> Pixel Art, done in Aseprite
 The Code here, is everything so far done.
 Code done in C# using Unity Game Engine
 
+
+#/6/24
+Hey
+
+-Been a while again. My last class started and as a result, slowed down progress a bit, but there is still so much added, and so much more to come.
+
+-First and foremost, within the next 2-3 weeks I want to release what I call my 'Developers Demo!', a short executable of my game hosted Here!
+
+-A very short playable demo to showcase everything I've worked on so far!
+  -Why call it a developer demo? Because its super short, and without sound. So what's in it?
+  -Targetting 3 repeatable quests. (1 currently)
+  * I've made quests very easy to add, the difficult(more time consuming) part comes in when I try to design the new maps.
+  * 2 Usable skills. In the demo, you will not be able to swap them, but in future builds you will.
+  * Over 12 guns to use/buy.(Number will increase exponentially over time)(Or at least by a lot).
+  * Start menu(Working on it now)
+  * 7 Species to play as. As of now, there is no difference between the playable alien species, but in the future, each will come with a unique passive.
+  * 1 Boss
+  * 3 enemy types
+  * + More
+  
+-Yeaa developer demooo. Now onto whats been added
+  -Melee Weapons!(Spears) Spears function differently from weapons. Left click to spear strike and gain a charge.(Max charges vary per spear)
+  
+  -Right click to throw the spear, expending all charges and dealing bonus dmg based on the # of charges used. (Spear then takes time till resummon)
+  
+  -Spears need more tidy up time, and won't be in the developers demo.
+  
+  -Added new enemy-> HopBox. The hopbox hops to your location and damages players who touch it!
+  
+  -Reworked hit effects and muzzle flash. It's starting to look a lot better.
+  
+  -Added new map. This map features the hospital, school, gym and more. (Most likely wont be available in demo ): )
+  
+  -Finally added in game time. This is important as a lot of the gameplay revolves around this.
+  
+  -As mentioned earlier(I think), every action you do will cost you time, adding to your daily 'time limit'.
+  
+  -Once full (100/100), the day is over, and the player will age a day (+1/10).
+  
+  -Actions such as using gym equipment, will cost you money and time, but will boost your stats immediately.
+  
+  -Travelling across to different maps also costs time.
+  
+  -Added moving platforms.
+  
+  -Cleaned up enemy logic. Theres still more work to do here, but at least they should stop floating off of ledges..
+  
+  Anyways thats it for now. I may be in class, but I believe updates will soon come at a rapid pace. A lot of the groundwork has been layed,
+  now it's time to start adding to it, making it look like, and beefing it.
+  
+
 # 5/10
 BACK ONCE AGAIN
 -Been about a month since the last update but the work hasn't stopped!
