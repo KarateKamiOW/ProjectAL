@@ -18,7 +18,33 @@ The Code here, is everything so far done.
 Code done in C# using Unity Game Engine
 
 
-#/6/24
+8/6
+Phew, It's a good thing nobodies reading these because I definitely missed my deadline! :))
+
+In all seriousness though, the game is still coming along. The major things I want to complete before shipping out a demo are
+-Title Screen
+-Scene Transitions
+-Death Screen
+
+Once all three of these are out of the way, I'll be fully ready to release and show what I've been working on! In the meantime, I'm going to list out a few things I've been working on over the past month, and also begin to finally upload screenshots of what the game looks like. It's obviously still a work in progress, but I feel comfortable enough in actually showing what I've been working so hard on!
+
+-New maps and quests added. (3 quests total so far).
+-Along side quests are new enemy types(Stationary gatling guns, Alien cops, Alien thugs, etc.)
+-Obstacle hazards such as spinning saw blades and ground spikes which damage the player upon contact.
+-More weapons!
+-Weapon smoke to signal to the player they are out of ammo.
+-New Skills! (Bullet Blitz: Shoot in a given direction 4 times to deal damage without consuming any weapon ammo. Costs energy)
+-Improved art. (Hey look I'm not a fantastic artist, but it's coming!
+-More weapon dialog lines and personalities. (Remember, your guns can talk to you).
+-Lighting. (This one is difficult as hell, but again, I'm trying my best to make scene lighting feel somwhat imersive. 
+
+Once those three tasks mentioned at the beginning are completed, I'll release a very short playable demo on github, which should come no later than this month(fingers crossed).
+Next after these tasks, I'll finally move on to the game sound, which given my background, I'm sure will come much easier than anything else.
+
+Till next time.
+
+
+# 6/24
 Hey
 
 -Been a while again. My last class started and as a result, slowed down progress a bit, but there is still so much added, and so much more to come.
